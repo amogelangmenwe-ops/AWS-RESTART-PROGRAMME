@@ -45,7 +45,8 @@ Permissions issues: Some logs needed elevated permissions to access, so I had to
 
 
 📂 Project 2.2
-                        LAB 249 The bash shell 
+
+                               LAB 249 The bash shell 
 
 In this lab, I explored the Bash shell, which is the command-line interface for interacting with a Linux system. The main goal was to understand how to use Bash commands, navigate the file system, manage files and directories, and execute scripts. This lab provided hands-on experience with essential Linux commands, shell features, and basic scripting, helping me become more comfortable working in a command-line environment.
 
