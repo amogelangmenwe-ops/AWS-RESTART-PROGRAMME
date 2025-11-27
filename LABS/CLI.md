@@ -1,4 +1,6 @@
-💻 The AWS Command Line Interface (CLI) is a super handy tool that lets you work with AWS services straight from your terminal. Instead of clicking around in the AWS Management Console, you can run commands to create resources, upload files, set up services, and automate tasks. It’s perfect for scripting, managing multiple environments, and getting repetitive tasks done much faster. Using the CLI also gives you a peek behind the scenes, giving you more control over your AWS setup—definitely a must-have skill for anyone working in the cloud.
+                               💻 The AWS Command Line Interface (CLI) 
+                               
+CLI is a super handy tool that lets you work with AWS services straight from your terminal. Instead of clicking around in the AWS Management Console, you can run commands to create resources, upload files, set up services, and automate tasks. It’s perfect for scripting, managing multiple environments, and getting repetitive tasks done much faster. Using the CLI also gives you a peek behind the scenes, giving you more control over your AWS setup—definitely a must-have skill for anyone working in the cloud.
 
 
 Overview
