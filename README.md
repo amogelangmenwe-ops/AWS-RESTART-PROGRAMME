@@ -1,62 +1,84 @@
-                            AWS Restart Projects 🚀
+                                                 Hi there! I’m Amogelang 😄,
+                                This repo showcases my journey through the AWS Restart program 🎓, 
+                         including projects that cover cloud servers ⚙️, storage 📦, and database management 🗄️
 
-Welcome to my AWS Restart project repository! This collection of projects showcases my hands-on experience with AWS services and databases. Through these projects, I’ve explored cloud computing, virtual servers, cloud storage, and relational databases, learning how to deploy, manage, and interact with real-world systems.
 
-Each folder in this repository contains detailed notes, explanations, and insights from my projects. Click on the folder to dive deeper into my findings.
 
-                             📁 EC2 – Elastic Compute Cloud
 
-Brief:
+                     
+<img width="300" height="168" alt="images (2)" src="https://github.com/user-attachments/assets/2f5a5f42-9d6e-41c3-831c-24df0fcaee97" />
 
-Let me tell you about EC2! Amazon EC2 allows you to launch virtual servers in the cloud, giving you full control over operating systems, software, and performance settings. Through my EC2 project, I learned how to:
 
-Launch and configure instances
 
-Connect securely via SSH
 
-Install and manage software
 
-Set up security groups and key pairs
 
-Monitor performance and manage costs
 
-Click on the EC2 folder to explore the full project and read about the challenges I faced and how I overcame them.
 
-                              📁 S3 – Simple Storage Service
 
-Brief:
-S3 is AWS’s cloud storage service that lets you store and retrieve files from anywhere. In my S3 project, I learned how to:
 
-Organize data using buckets
 
-Store and manage files as objects
+    
+                   
+   
+               
 
-Control access with permissions and security rules
+  About Me
+  -
 
-Use extra features like versioning, lifecycle rules, and encryption
+ >Background & Journey
 
-Understand why S3 is a powerful tool for backups, hosting, and applications
+I come from a background in Finance , a field far removed from technology. Taking the leap into tech was a bold choice—a leap of faith to explore what the world of cloud computing could offer me. This journey hasn’t been easy. Rewiring my thinking to approach problems like a tech professional, learning through self-study, and navigating unfamiliar concepts tested my patience and perseverance.
 
-Click on the S3 folder to dive deeper into my project and see step-by-step explanations of how I worked with cloud storage.
+But when your heart is in it, every challenge becomes an opportunity. No matter how slow or fast the progress, every milestone—whether the first, second, or third—is a victory. Today, as a freshly trained AWS re/Start student, I am energized and ready to build a new career path in cloud computing. This site is a window into my journey, showcasing my challenges, achievements, and the successes yet to come.
 
-                                        📁 Relational Database Project 🗄️
+>Tech Passion & Vision
 
-Brief:
-This project helped me understand how relational databases store and manage data. I explored the structure of tables, learned how to extract insights using SQL queries, and worked with functions to clean and process data efficiently. Key learning points include:
+I am a tech enthusiast with a growing passion for cloud computing. What excites me most is how cloud technologies are transforming the way businesses operate, offering scalability, flexibility, and security like never before. I am fascinated by the potential to solve real-world problems and create innovative solutions that make a tangible impact.
 
-Navigating database structures
+This passion drives my continuous learning and motivates me to grow within the tech industry, exploring new opportunities, mastering cloud technologies, and contributing to projects that harness the power of the cloud to help businesses thrive in the digital age.
 
-Writing queries to filter, sort, and combine information
+>AWS re/Start Journey
 
-Using functions to manipulate text and perform calculations
+Through the AWS re/Start program, I gained:
+-
+A strong foundation in core AWS services and how they interconnect.
 
-Strengthening query accuracy, readability, and performance
+Hands-on experience building projects using EC2, S3, RDS, VPC, IAM, CloudFormation, and more.
 
-Click on the Database folder to read more about my findings, objectives, and the hands-on exercises I completed.
+Knowledge of cloud best practices in security, cost optimization, and operational excellence.
 
-                                               📝 About This Repository
+Problem-solving strategies tailored for cloud environments.
 
-This repository is part of my AWS Restart journey. Each project demonstrates practical skills in cloud computing, storage, and database management. It reflects my learning, problem-solving, and the challenges I overcame while exploring AWS services.
+Professional skills in teamwork, technical communication, and presentation.
 
-Feel free to explore, learn, and get inspired!
+(This intensive program equipped me with both technical expertise and a client-focused approach, preparing me to start my career as a cloud professional and grow within the tech industry, exploring opportunities to apply cloud technologies to real-world challenges.)
+
+                                      
+                                                  Skills & Technologies
+                                      
+AWS & Cloud Skills:
+-
+Core Services: EC2, S3, RDS, VPC, IAM, CloudFormation
+
+Key Concepts: Scalability, Security, Cost Optimization, Infrastructure as Code
+
+                                                       Soft Skills:
+                                       
+Customer Focus
+-
+Problem-Solving
+-
+Effective Communication
+-
+Presentation Skills
+-
+
+ >Looking Ahead
+
+-I’m excited about the journey ahead as I step into the world of cloud computing. Every challenge, project, and new skill learned brings me closer to my goal. I am ready to contribute, learn, and grow, leveraging my unique blend of business understanding, technical skills, and passion for cloud solutions.
+
+
+
+
 
