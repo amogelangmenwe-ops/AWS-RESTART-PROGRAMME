@@ -1,7 +1,9 @@
-[cbf3927f-52e9-4cce-94b5-a736533edc30.pdf](https://github.com/user-attachments/files/23955125/cbf3927f-52e9-4cce-94b5-a736533edc30.pdf)
 
-[Database in Practice.pdf](https://github.com/user-attachments/files/23955127/Database.in.Practice.pdf)
+<img width="683" height="472" alt="Screenshot 2025-12-10 083311" src="https://github.com/user-attachments/assets/f90f177f-257b-440b-9ad3-9bf797588fea" />
 
-[file system.pdf](https://github.com/user-attachments/files/23955130/file.system.pdf)
 
-[Networking concepts.pdf](https://github.com/user-attachments/files/23955132/Networking.concepts.pdf)
+<img width="522" height="392" alt="Screenshot 2025-12-10 082723" src="https://github.com/user-attachments/assets/4f9d2ca6-b267-4437-b3a7-3d4a60c2b70d" />
+<img width="690" height="487" alt="Screenshot 2025-12-10 083248" src="https://github.com/user-attachments/assets/9b8169b2-8b82-4993-9804-a23e768561f2" />
+<img width="683" height="501" alt="Screenshot 2025-12-10 082839" src="https://github.com/user-attachments/assets/fab2fcfe-ad57-4e83-a73e-efafffebcc46" />
+
+
