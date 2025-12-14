@@ -31,6 +31,13 @@ To address the restaurant’s operational challenges, the website includes a boo
 
 All images used on the website are hosted on Amazon S3, ensuring they load quickly and remain accessible at all times.
 
+
+<img width="1280" height="720" alt="cover 2" src="https://github.com/user-attachments/assets/cc0e71d5-fdfc-40ed-9fc1-7514b8cc32f5" />
+
+
+<img width="853" height="1280" alt="cover one" src="https://github.com/user-attachments/assets/de405686-a1b0-4013-ad30-62341e25b297" />
+
+
                                              AWS Services Used in the Project
 
 Amazon S3 was used as the primary AWS service for this project. It hosts the static website and stores all related content, including images of food and the restaurant environment. Amazon S3 was chosen because it is highly reliable, secure, and cost-effective, especially for static websites.
