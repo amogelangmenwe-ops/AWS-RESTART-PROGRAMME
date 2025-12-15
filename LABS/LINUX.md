@@ -1,4 +1,5 @@
-# 📂 Project 2.1-LINUX      
+-LINUX   
+-
                         LAB 245  Managing Long Files
 
 In this lab, I explored how Linux systems generate, store, and manage log files. The main goal was to understand where logs are located, how to read them, and how automated log rotation helps keep the system organized and efficient. I worked with tools like cat, less, tail, and journalctl to view different types of logs and monitor system activity. I also examined how logrotate controls the size, rotation schedule, and archival process of log files. This lab helped me understand the importance of logs for troubleshooting, performance monitoring, and maintaining the overall health of a Linux system.
