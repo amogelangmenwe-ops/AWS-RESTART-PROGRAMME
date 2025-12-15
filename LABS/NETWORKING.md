@@ -1,10 +1,11 @@
-# 📂 Project 3.1 NETWORKING 
+# NETWORKING 
 
                               LAB 263   Create Subnets and VPC 
 
 In this lab, I learned how to design and configure a virtual network environment using Virtual Private Clouds (VPCs) and subnets. The main goal was to understand how to segment network resources, control IP address allocation, and manage connectivity between different parts of a network. This lab provided hands-on experience with creating VPCs, defining subnets, and understanding routing and network isolation concepts in a cloud or virtualized environment.
 
 ✔ Project Objectives
+-
 
 Understand the purpose of a VPC and how it isolates network resources.
 
@@ -19,6 +20,7 @@ Understand the role of gateways and how they connect a VPC to the internet.
 Gain practical experience with network segmentation for security and efficiency.
 
 ✔ What I Did
+-
 
 Created a new VPC and assigned it an IP address range.
 
@@ -38,20 +40,23 @@ Learned how network segmentation helps improve security and manageability.
 
 
 Difficulties Encountered
+-
 
 Understanding IP ranges: Calculating subnet masks and assigning correct IP ranges took careful planning.
 Routing configuration: Setting up routing between subnets and to the internet required understanding how traffic flows.
 Network isolation: Ensuring subnets were properly isolated while still allowing necessary communication was tricky at first.
 Multiple steps: Creating VPCs, subnets, and gateways in the right order required attention to detail.
 
-# 📂 Project 3.2
-                            LAB 264  Networking resources for a VPC
 
+                            LAB 264  Networking resources for a VPC
+---------------------------------------------------------------------------------------
  Overview
+ -
 
 In this lab, I explored how to set up and manage networking resources within a Virtual Private Cloud (VPC). The focus was on understanding components like route tables, internet gateways, NAT gateways, and security groups, and how they work together to control traffic flow, connectivity, and security. The lab provided hands-on experience with configuring networking resources to create a functional, secure, and scalable cloud network environment.
 
 ✔ Project Objectives
+-
 
 Understand the purpose of networking resources in a VPC.
 
@@ -66,6 +71,7 @@ Learn about security groups and network ACLs to manage inbound and outbound traf
 Gain practical skills in configuring VPC components to ensure connectivity and security.
 
 ✔ What I Did
+-
 
 Created and attached an internet gateway to the VPC for external connectivity.
 
@@ -80,7 +86,7 @@ Verified network configurations by testing connectivity between subnets and to e
 Learned how combining these resources ensures a secure, well-structured network.
 
 Difficulties Encountered
-
+-
 Understanding traffic flow: It was initially challenging to visualize how packets move between subnets, gateways, and the internet.
 
 Configuring route tables correctly: Assigning routes to the right subnets and gateways required careful planning.
