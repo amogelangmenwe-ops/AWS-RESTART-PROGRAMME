@@ -5,7 +5,7 @@
 
 WELCOME TO OUR CHATBOT PROJECT 
 --------------------------------------------------
-Hi guys, I want to walk you through our approach to the Lex chatbot project. The assignment gave us flexibility to build a quiz bot on any AWS service. Most people would probably choose S3 since that’s the example provided, but our team decided to focus on IAM security instead. We wanted to go beyond the obvious choice and build something that reflects how AWS is actually used in real environments.
+Hi there I want to walk you through our approach to the Lex chatbot project. The assignment gave us flexibility to build a quiz bot on any AWS service. Most people would probably choose S3 since that’s the example provided, but our team decided to focus on IAM security instead. We wanted to go beyond the obvious choice and build something that reflects how AWS is actually used in real environments.
 
 Why We Chose IAM
 -
